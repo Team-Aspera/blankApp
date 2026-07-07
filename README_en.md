@@ -80,5 +80,5 @@ blank_app/
 
 ## License
 
-LGPL v3
+LGPL v2.1
 
