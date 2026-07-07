@@ -80,4 +80,4 @@ blank_app/
 
 ## 许可
 
-LGPL v3
+LGPL v2.1
