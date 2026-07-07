@@ -1,0 +1,12 @@
+{
+  "name": "flutter-hvigor-plugin",
+  "version": "1.0.0",
+  "description": "Flutter Hvigor integration plugin for Flutter-OHOS projects.",
+  "main": "index.ts",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "@ohos/hvigor": "5.2.2"
+  }
+}
