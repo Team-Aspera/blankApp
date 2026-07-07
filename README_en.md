@@ -80,4 +80,5 @@ blank_app/
 
 ## License
 
-Internal project, no open-source license specified.
+LGPL v3
+
